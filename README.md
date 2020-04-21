@@ -12,4 +12,4 @@ Adding purpose section text
 
 ## Deployment
 
-Sample website with plenty of files for demos
+Adding deployment section text
