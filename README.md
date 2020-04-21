@@ -8,6 +8,8 @@ Adding Intro section text
 
 ## Purpose
 
+Adding purpose section text
+
 ## Deployment
 
 Sample website with plenty of files for demos
