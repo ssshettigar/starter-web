@@ -14,6 +14,4 @@ Adding purpose section text
 
 Adding deployment section text
 
-New dummy text
-
-New text 1
+Copyright Section
