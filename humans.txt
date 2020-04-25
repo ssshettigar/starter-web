@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    srikanth-- Developer -- @srikanthshettigar
 
 # THANKS
 
