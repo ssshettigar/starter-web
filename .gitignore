@@ -2,3 +2,4 @@ access.log
 logs/
 *simple_*
 *.orig
+*.DS_Store
