@@ -1,13 +1,13 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-# testing rebase concepts ---
+
 # TEAM
 
     srikanth-- Developer -- @srikanthshettigar
 
 # THANKS
 
-    <name>
+    Thanks to all.
 
 # TECHNOLOGY COLOPHON
 
