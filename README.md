@@ -2,7 +2,7 @@
 
 This is a simple website showing how Git and GitHub work
 
-Adding line for rebasing example
+***** Adding line for rebasing example *********
 
 ## Introduction
 
